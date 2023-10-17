@@ -10,6 +10,7 @@ body{
     background:url("../images/couleur.png");
     background-repeat: no-repeat;
     background-position: top right;
+    background-size: 45%;
 }
 
 /* HEADER */
@@ -47,4 +48,9 @@ body{
     background: url("../images/vector.svg");
     background-repeat: no-repeat;
     background-position: right;
+}
+
+/* HERO */
+.fille{
+    width: 80%;
 }
