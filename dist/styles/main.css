@@ -7,6 +7,9 @@ body{
     font-family: 'Poppins', sans-serif;
     color:#5E6282;
     font-size: 1.6rem;
+    background:url("../images/couleur.png");
+    background-repeat: no-repeat;
+    background-position: top right;
 }
 
 /* HEADER */
@@ -39,6 +42,9 @@ body{
     border-radius: 6.65px;
     padding: 12px 28px;
 }
-.chevron{
+.menu{
     margin: 0 0 0 10px;
+    background: url("../images/vector.svg");
+    background-repeat: no-repeat;
+    background-position: right;
 }
