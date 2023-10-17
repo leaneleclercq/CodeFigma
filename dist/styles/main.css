@@ -1,0 +1,44 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    color:#5E6282;
+    font-size: 1.6rem;
+}
+
+/* HEADER */
+#header{
+   padding: 20px 0px; 
+}
+#header div.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 190px 0 190px;
+}
+.logo img{
+    width: 183px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+    margin: 0 42px;
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    color:#212832;
+}
+.signUp{
+    border: 1px #212832 solid;
+    border-radius: 6.65px;
+    padding: 12px 28px;
+}
+.chevron{
+    margin: 0 0 0 10px;
+}
